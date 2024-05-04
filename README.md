@@ -9,8 +9,8 @@ This script automates the installation process of Discord on Linux systems. It d
 ## Usage
 
 1. Clone or download the script to your system.
-2. Make the script executable: `chmod +x discord_install.sh`
-3. Execute the script with root privileges: `sudo ./discord_install.sh`
+2. Make the script executable: `chmod +x discord_installer.sh`
+3. Execute the script with root privileges: `sudo ./discord_installer.sh`
 
 ## License
 
