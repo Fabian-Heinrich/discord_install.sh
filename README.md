@@ -1,6 +1,6 @@
-# Discord Installation Script
+# Discord Installation and Update Script
 
-This script automates the installation process of Discord on Linux systems. It downloads the Discord Debian package from the official Discord website and installs it using `dpkg`.
+This script automates the installation and update process of Discord on Linux systems. It downloads the Discord Debian package from the official Discord website and installs it using `dpkg`.
 
 ## Prerequisites
 
